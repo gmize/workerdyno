@@ -18,7 +18,7 @@ $app->match('/', function (Symfony\Component\HttpFoundation\Request $request) us
 
     $form = $app['form.factory']->createBuilder('form')
         ->add('opinion', 'textarea', [
-            'label' => 'Your opinion',
+            'label' => 'Test Form',
             'attr' => ['rows' => count($opinions)*2],
         ])
         ->getForm();
