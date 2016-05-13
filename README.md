@@ -14,3 +14,7 @@ For a full explanation of the individual components and more background informat
 To deploy this application to Heroku right now, you can use this button:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+# workerdyno
+Testing and developing Worker Dyno Usage on Heroku
+
